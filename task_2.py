@@ -18,3 +18,5 @@ while x >= 1:
 
 print(f'Четных чисел: {even_numbers}')
 print(f'Нечётных чисел: {odd_numbers}')
+
+# https://drive.google.com/file/d/1bxdkxdjbK5VGZC8G1FKRimQTuOOHx7_s/view?usp=sharing
